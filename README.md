@@ -60,7 +60,9 @@ yukarıdaki script darknet/data/train.txt dosyasını oluşturur. Bu dosyada tra
  
  # ***Average Loss Yorumları***
  loss 1000'lerden başlayabilir.
+ 
  200. iterasyonlarda loss 5'lerin altına inebilir.
+ 
  eğitim sonunda lossun 2'nin altına inmesi beklenir.
  
 
